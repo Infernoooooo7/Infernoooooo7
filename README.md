@@ -1,48 +1,47 @@
-<h1 align="center">Hi 👋, Pavan here</h1>
+<h1 align="center">Hey 👋 I'm Pavan</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Java+Programmer;Data+Structures+%26+Algorithms;Building+Scalable+Web+Apps" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=2nd+Year+CSE+Student;Aspiring+Full+Stack+MERN+Developer;Java+%7C+DSA+Learner;Building+Projects+%26+Growing+Daily" />
   </a>
 </p>
 
 ---
 
+<p align="center">
+  🌱 Learning today to build better tomorrow
+</p>
+
+---
+
 ### 👨‍💻 About Me
-- 🎓 CSE Student  
-- 💻 Full Stack Developer (MERN)  
-- ☕ Strong in Java & DSA  
-- 🚀 Focused on building real-world scalable applications  
-- 📈 Constantly learning and improving problem-solving skills  
+- 🎓 2nd Year Computer Science student  
+- 💻 Learning **Full Stack Web Development (MERN)**  
+- ☕ Practicing **Java & Data Structures and Algorithms**  
+- 🚀 Building projects to strengthen real-world skills  
+- 📈 Improving problem-solving every day  
 
 ---
 
-### 🚀 Tech Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js)
-![Java](https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk)
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,git,github,html,css,javascript" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 🔥 Current Focus
-- Mastering Data Structures & Algorithms  
-- Improving system design knowledge  
-- Building production-ready MERN applications  
+### 🎯 Current Goals
+- Crack a strong grip on DSA  
+- Build solid full-stack + mern stack applications  
+- Contribute to real projects  
 
 ---
 
 ### 🤝 Connect With Me
-[LinkedIn](www.linkedin.com/in/pavan-mp-5a2bbb378)  
-[Instagram](https://www.instagram.com/pxvxn_mp/)
+<p align="center">
+<a href="https://www.linkedin.com/in/pavan-mp-5a2bbb378">LinkedIn</a> •
+<a href="https://www.instagram.com/pxvxn_mp/">Instagram</_
+
 
 
 
